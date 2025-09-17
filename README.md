@@ -1,6 +1,6 @@
 # 👨‍💻 Lucas Piske Nogueira
 
-![Profile Views](https://komarev.com/ghpvc/?username=seuusuario&color=blue&style=flat-square)
+![Profile Views](https://img.shields.io/badge/Visualizações-5-blue?style=flat-square)
 ![Status](https://img.shields.io/badge/Estudante-TI-blue)
 ![Idade](https://img.shields.io/badge/Idade-16%20anos-green)
 ![Status](https://img.shields.io/badge/Cursando-Contabilidade-yellow)
